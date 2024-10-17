@@ -1,0 +1,2 @@
+Average grade: 80.75
+Students above average: 2

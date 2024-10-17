@@ -1,0 +1,51 @@
+Using the IDE of your choice, please complete the following programming questions, upload your code to GitHub, and submit the link to Canvas.
+
+Each question is worth 25 points:
+
+20 points proper syntax, error handling, and implementation of question
+
+5 points functioning code with expected results
+
+
+Question 1: File Processing and Data Analysis
+
+Outline:
+
+· Read data from a text file.
+
+· Parse the data to extract relevant information.
+
+· Perform calculations (e.g., averages, counts).
+
+· Write the results to a new file.
+
+Question: Write a Python program that reads a text file named grades.txt, where each line contains a student's name followed by their grade (e.g., Alice 88). The program should:
+
+1. Calculate the average grade.
+
+2. Count the number of students who scored above the average.
+
+3. Write the average and the count of above-average students to a file named results.txt
+
+Tips: to test Question 1, create a file with grades and read it into the IDE.
+
+
+Question 2: Data Transformation
+
+Outline:
+
+· Read a list of integers.
+
+· Use a for loop to transform the data.
+
+· Calculate and return the results based on transformed data.
+
+Question: Write a Python function called transform_data that accepts a list of integers. The function should:
+
+1. Create a new list containing each integer from the original list squared.
+
+2. Calculate the sum of the squared values.
+
+3. Return both the new list and the sum.
+
+Tips: to test Question 2, call your function and pass in the values
